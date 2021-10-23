@@ -3,5 +3,9 @@
   <groupId>lyit.ie</groupId>
   <artifactId>numbers</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  <properties> 
+  	<source>1.7</source>
+  	<target>1.7</target>
+  </properties>
   <name>numbers</name>
 </project>
