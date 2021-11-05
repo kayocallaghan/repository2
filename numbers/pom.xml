@@ -4,8 +4,8 @@
   <artifactId>numbers</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <properties> 
-  	<source>1.7</source>
-  	<target>1.7</target>
+  	<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+  	<maven.compiler.release>16</maven.compiler.release>
   </properties>
   <name>numbers</name>
 </project>
